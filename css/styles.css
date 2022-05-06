@@ -1,5 +1,6 @@
 :root {
-  --primary-background: #fff;
+  --primary-background: blue;
+  --primary-background: -50%; ;
   --primary-border-card: rgba(0, 0, 0, 0.125);
   --primary-date: grey;
   --primary-title: #6940d3;
@@ -259,7 +260,7 @@ a:hover {
   width: 100%;
   box-shadow: 1px 1px 5px var(--primary-title);
   border-radius: 20px;
-  font-family: sans-serif;
+  font-family: serif;
   color: var(--primary-label);
   padding: 8px;
   color: white;
